@@ -11,7 +11,7 @@ This command-line program utilizes Node.js and various libraries to resize and c
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/tu-usuario/image-compression-program.git
+   git clone https://github.com/JesusAguilarAliaga/Image-Compression-Program.git
    cd image-compression-program
 
 2. Install dependencies:
@@ -70,7 +70,7 @@ Este programa de línea de comandos utiliza Node.js y varias bibliotecas para re
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/image-compression-program.git
+   git clone https://github.com/JesusAguilarAliaga/Image-Compression-Program.git
    cd image-compression-program
 
 2. Instala las dependencias:
